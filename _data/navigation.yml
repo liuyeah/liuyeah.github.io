@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Biography"
+    url: "/#-biography"
+
+  - title: "Research Interest"
+    url: "/#-research-interest"
 
   - title: "News"
     url: "/#-news"
@@ -15,8 +18,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
   - title: "Internships"
     url: "/#-internships"
+
+  - title: "Teaching"
+    url: "/#-teaching"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
