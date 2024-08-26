@@ -58,7 +58,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models. [[arxiv]](https://arxiv.org/pdf/2407.08967) [[code]](https://github.com/liuyeah/DSARE)\
   The 29th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2024.
 - Yanghai Zhang, **_Ye Liu_**, Shiwei Wu, Kai Zhang*, Xukai Liu, Qi Liu, Enhong Chen.\
-  Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization. [[arxiv]](https://www.arxiv.org/pdf/2408.03149) [[code]](https://github.com/ApocalypseH/EGMS)\
+  Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization. [[paper]](https://aclanthology.org/2024.findings-acl.587.pdf) [[code]](https://github.com/ApocalypseH/EGMS)\
   Findings of the 62nd annual meeting of the Association for Computational Linguistics (**_ACL-Findings_**), 2024.
 - Linan Yue, Qi Liu, **_Ye Liu_**, Weibo Gao, et al.\
   Cooperative Classification and Rationalization for Graph Generalization. [[arxiv]](https://arxiv.org/pdf/2403.06239) [[code]](https://github.com/yuelinan/Codes-of-C2R)\
