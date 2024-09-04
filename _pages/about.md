@@ -24,7 +24,7 @@ Currently, I am a visiting Ph.D. student with Prof. [Xiaofang Zhou](https://site
 
 **I am on the job market the next year!** I will graduate with my Ph.D. degree in summer 2025. I am open to faculty/postdoctoral positions or related industry roles. Please get in touch!
 
-Here are my [Curriculum Vitae](../personal_cv/CV_YeLiu.pdf) and [Research Statement](../personal_cv/RS_YeLiu.pdf) (August 2024).
+Here is my [Curriculum Vitae](../personal_cv/CV_YeLiu.pdf) (August 2024).
 
 # 👨🏻‍💻 Research Interest
 My research interests encompass a wide range of subjects within the ﬁelds of **Knowledge-aware Natural Language Processing (NLP)**, focusing on two main areas: (1) Knowledge Acquisition and (2) Knowledge Application. Recently, I am exploring a focused research direction of Knowledge-enhanced Large Language Models (LLMs). I have published more than 20 papers at the top international conferences/journals.
