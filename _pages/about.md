@@ -70,7 +70,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   QoMRC: Query-oriented Machine Reading Comprehension Framework for Aspect Sentiment Triplet Extraction. [[paper]](../publications/QoMRC_DASFAA2024.pdf)\
   The 29th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2024.
 - Zhijun Dong, Likang Wu, Kai Zhang, **_Ye Liu_**, Yanghai Zhang, Zhi Li, Hongke Zhao and Enhong Chen.\
-  FZR: Enhancing Knowledge Transfer via Shared Factors Composition in Zero-Shot Relational Learning.\
+  FZR: Enhancing Knowledge Transfer via Shared Factors Composition in Zero-Shot Relational Learning. [[paper]](../publications/FZR-CIKM2024.pdf)\
   The 33rd ACM International Conference on Information and Knowledge Management (**_CIKM_**), 2024.
 - Linan Yue, Qi Liu, Yichao Du, Weibo Gao, Ye Liu, et al.\
   FedJudge: Federated Legal Large Language Model. [[arxiv]](https://arxiv.org/pdf/2309.08173) [[code]](https://github.com/yuelinan/FedJudge)\
