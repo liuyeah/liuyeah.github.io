@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍🎓 Biography
-I am a Ph.D. candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), and a member of State Key Laboratory of Cognitive Intelligence. My supervisor is Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Previously, I interned at _Huawei - Could & AI_ and _ByteDance - AI LAB_, as an algorithm intern. I received my Bachelor degree from USTC in July, 2019, and majored in Electronic Information Engineering.
+I am a Ph.D. candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), and a member of State Key Laboratory of Cognitive Intelligence. My supervisor is Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Previously, I interned at _ByteDance - AI LAB_, as an algorithm intern. I received my Bachelor degree from USTC in July, 2019, and majored in Electronic Information Engineering.
 
 Currently, I am a visiting Ph.D. student with Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) at The Hong Kong University of Science and Technology (HKUST).
 
@@ -90,7 +90,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   Keep Skills in Mind: Understanding and Implementing Skills in Commonsense Question Answering. [[paper]](https://www.ijcai.org/proceedings/2023/0557.pdf) [[code]](https://github.com/BAOOOOOM/DSCQA)\
   The 32nd International Joint Conference on Artificial Intelligence (**_IJCAI_**), 2023.
 - Kehang Wang, Qi Liu*, Kai Zhang, **_Ye Liu_**, Hanqin Tao, Zhenya Huang, Enhong Chen.\
-  Class-Dynamic and Hierarchy-Constrained Network for Entity Linking. [[paper]](../publications/WangKH_DASFAA2023.pdf) [[code]][https://github.com/bigdata-ustc/CDHCN]\
+  Class-Dynamic and Hierarchy-Constrained Network for Entity Linking. [[paper]](../publications/WangKH_DASFAA2023.pdf) [[code]](https://github.com/bigdata-ustc/CDHCN)\
   The 28th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2023.
 - Xin Jin, Qi Liu*, Linan Yue, Ye Liu, Lili Zhao, Weibo Gao, Zheng Gong, Kai Zhang, Haoyang Bi.\
   Diagnosis then Aggregation: An Adaptive Ensemble strategy for Keyphrase Extraction. [[paper]](../publications/XinJin_CICAI.pdf) [[code]](https://github.com/kingiv4/AEKE)\
