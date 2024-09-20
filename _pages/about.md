@@ -35,6 +35,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper accepted to EMNLP conference! See you in Miami! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted to CIKM conference! 
 - *2024.05*: &nbsp;🎉🎉 One paper accepted to ACL conference!
 
@@ -46,8 +47,6 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection.[[arxiv]](https://arxiv.org/pdf/2407.08952) [[code]](https://anonymous.4open.science/r/DAFND-CE5D).
 - Haoyu Tang†, **_Ye Liu_**†, Xukai Liu, Kai Zhang, Yanghai Zhang, Qi Liu, Enhong Chen.\
   Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models. [[arxiv]](https://arxiv.org/pdf/2407.20271) [[code]](https://github.com/himalalps/ICU).
-- Xukai Liu, **_Ye Liu_**, Kai Zhang, Kehang Wang, Qi Liu, Enhong Chen.\
-  OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting. [[paper]](https://openreview.net/pdf?id=GCxvf6qxeW) [[code]](https://anonymous.4open.science/r/LLM4EL/)
 - Aoran Gan, **_Ye Liu_**, Hongbo Gang, Kai Zhang, Qi Liu, Guoping Hu.\
   Discover rather than Memorize: A Novel Benchmark for Relational Triple Extraction. [[paper]](https://openreview.net/pdf?id=E8r0jBzfoH)
 - Feng Hu, Kai Zhang, **_Ye Liu_**, Meikai Bao, Xukai Liu, Junyu Lu, Linbo Zhu, Qi Liu.\
@@ -60,6 +59,9 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - Yanghai Zhang, **_Ye Liu_**, Shiwei Wu, Kai Zhang*, Xukai Liu, Qi Liu, Enhong Chen.\
   Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization. [[paper]](https://aclanthology.org/2024.findings-acl.587.pdf) [[code]](https://github.com/ApocalypseH/EGMS)\
   Findings of the 62nd annual meeting of the Association for Computational Linguistics (**_ACL-Findings_**), 2024.
+- Xukai Liu, **_Ye Liu_**, Kai Zhang, Kehang Wang, Qi Liu, Enhong Chen.\
+  OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting. [[paper]](https://openreview.net/pdf?id=GCxvf6qxeW) [[code]](https://anonymous.4open.science/r/LLM4EL/)\
+  The 2024 Conference on Empirical Methods in Natural Language Processing (**_EMNLP_**), 2024.
 - Linan Yue, Qi Liu, **_Ye Liu_**, Weibo Gao, et al.\
   Cooperative Classification and Rationalization for Graph Generalization. [[arxiv]](https://arxiv.org/pdf/2403.06239) [[code]](https://github.com/yuelinan/Codes-of-C2R)\
   The ACM Web Conference, 2024 (**_WWW_**), 2024.
