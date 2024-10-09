@@ -60,7 +60,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization. [[paper]](https://aclanthology.org/2024.findings-acl.587.pdf) [[code]](https://github.com/ApocalypseH/EGMS)\
   Findings of the 62nd annual meeting of the Association for Computational Linguistics (**_ACL-Findings_**), 2024.
 - Xukai Liu, **_Ye Liu_**, Kai Zhang, Kehang Wang, Qi Liu, Enhong Chen.\
-  OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting. [[paper]](https://openreview.net/pdf?id=GCxvf6qxeW) [[code]](https://anonymous.4open.science/r/LLM4EL/)\
+  OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting. [[paper]](../publications/XukaiLiu_EMNLP2024.pdf) [[code]](https://github.com/laquabe/OneNet)\
   The 2024 Conference on Empirical Methods in Natural Language Processing (**_EMNLP_**), 2024.
 - Linan Yue, Qi Liu, **_Ye Liu_**, Weibo Gao, et al.\
   Cooperative Classification and Rationalization for Graph Generalization. [[arxiv]](https://arxiv.org/pdf/2403.06239) [[code]](https://github.com/yuelinan/Codes-of-C2R)\
