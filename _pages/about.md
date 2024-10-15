@@ -74,7 +74,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - Zhijun Dong, Likang Wu, Kai Zhang, **_Ye Liu_**, Yanghai Zhang, Zhi Li, Hongke Zhao and Enhong Chen.\
   FZR: Enhancing Knowledge Transfer via Shared Factors Composition in Zero-Shot Relational Learning. [[paper]](../publications/FZR-CIKM2024.pdf)\
   The 33rd ACM International Conference on Information and Knowledge Management (**_CIKM_**), 2024.
-- Linan Yue, Qi Liu, Yichao Du, Weibo Gao, Ye Liu, et al.\
+- Linan Yue, Qi Liu, Yichao Du, Weibo Gao, **_Ye Liu_**, et al.\
   FedJudge: Federated Legal Large Language Model. [[arxiv]](https://arxiv.org/pdf/2309.08173) [[code]](https://github.com/yuelinan/FedJudge)\
   The 29th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2024.
 
@@ -94,7 +94,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - Kehang Wang, Qi Liu*, Kai Zhang, **_Ye Liu_**, Hanqin Tao, Zhenya Huang, Enhong Chen.\
   Class-Dynamic and Hierarchy-Constrained Network for Entity Linking. [[paper]](../publications/WangKH_DASFAA2023.pdf) [[code]](https://github.com/bigdata-ustc/CDHCN)\
   The 28th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2023.
-- Xin Jin, Qi Liu*, Linan Yue, Ye Liu, Lili Zhao, Weibo Gao, Zheng Gong, Kai Zhang, Haoyang Bi.\
+- Xin Jin, Qi Liu*, Linan Yue, **_Ye Liu_**, Lili Zhao, Weibo Gao, Zheng Gong, Kai Zhang, Haoyang Bi.\
   Diagnosis then Aggregation: An Adaptive Ensemble strategy for Keyphrase Extraction. [[paper]](../publications/XinJin_CICAI.pdf) [[code]](https://github.com/kingiv4/AEKE)\
   CAAI International Conference on Artificial Intelligence (**_CICAI_**), 2023. [<font color="red">(Finalist of Best Paper Award!)</font>](../publications/cicai_best_paper.pdf)
 
