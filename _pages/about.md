@@ -35,6 +35,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 After four years review, One patent has been granted! 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to EMNLP conference! See you in Miami! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted to CIKM conference! 
 - *2024.05*: &nbsp;🎉🎉 One paper accepted to ACL conference!
@@ -77,6 +78,9 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - Linan Yue, Qi Liu, Yichao Du, Weibo Gao, **_Ye Liu_**, et al.\
   FedJudge: Federated Legal Large Language Model. [[arxiv]](https://arxiv.org/pdf/2309.08173) [[code]](https://github.com/yuelinan/FedJudge)\
   The 29th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2024.
+- Enhong Chen, Qi Liu, Jianhui Ma, **_Ye Liu_**, Han Wu, et al.\
+  Automatic Extraction Method for Technical Phrases in Patents. [[patent]](../publications/TechPhrase_Patent.pdf) \
+  Patent Number: ZL 2020 1 0887328.5, Granted: April 2, 2024, China National Intellectual Property Administration.
 
 ## 2023
 - **_Ye Liu_**, Kai Zhang*, Zhenya Huang, Kehang Wang, Yanghai Zhang, Qi Liu, Enhong Chen*.\
