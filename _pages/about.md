@@ -139,13 +139,13 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - *2016*: &nbsp;🏅 <em><b><font color="red">National Scholarship</font></b></em>.
 
 # 📖 Educations
-- *2024.05 - now*, Visiting Ph.D. Student, Hong Kong University of Science and Technology (HKUST), Supervisor: Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou). 
-- *2019.09 - now*, Ph.D. Candidate, University of Science and Technology of China (USTC), Supervisor: Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
-- *2015.09 - 2019.09*, B.E., University of Science and Technology of China (USTC). 
+- *May 2024 - now*, Visiting Ph.D. Student, Hong Kong University of Science and Technology (HKUST), Supervisor: Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou). 
+- *Septemper 2019 - now*, Ph.D. Candidate, University of Science and Technology of China (USTC), Supervisor: Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
+- *Septemper 2015 - June 2019*, B.E., University of Science and Technology of China (USTC). 
 
 # 💻 Internships
-- *2023.02 - 2023.08*, ByteDance - AI LAB, Beijing, China.
-- *2019.02 - 2019.08*, Huawei - Cloud & AI, Hangzhou, China.
+- *February 2023 - August 2023*, ByteDance - AI LAB, Beijing, China.
+- *February 2019 - August 2019*, Huawei - Cloud & AI, Hangzhou, China.
 
 # 👨🏻‍🏫 Teaching
 - *COMP6110P.02*: Machine Learning and Knowledge Discovery (Fall 2021).
