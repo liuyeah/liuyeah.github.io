@@ -135,7 +135,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 # 🎖 Honors and Awards
 - *2023*: &nbsp;🏅 CICAI Finalist of Best Paper Award (Top-3). 
 - *2019, 2020, 2022, 2023*: &nbsp;🏅 Graduate Student First-class Academic Scholarship.
-- *2020*: &nbsp;🏅 Graduate Student Second-class Academic Scholarship.
+- *2021*: &nbsp;🏅 Graduate Student Second-class Academic Scholarship.
 - *2016*: &nbsp;🏅 <em><b><font color="red">National Scholarship</font></b></em>.
 
 # 📖 Educations
