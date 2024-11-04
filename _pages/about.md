@@ -35,10 +35,10 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 After four years review, One patent has been granted! 
-- *2024.09*: &nbsp;🎉🎉 One paper accepted to EMNLP conference! See you in Miami! 
-- *2024.07*: &nbsp;🎉🎉 One paper accepted to CIKM conference! 
-- *2024.05*: &nbsp;🎉🎉 One paper accepted to ACL conference!
+- *10/2024*: &nbsp;🎉🎉 After four years review, One patent has been granted! 
+- *9/2024*: &nbsp;🎉🎉 One paper accepted to EMNLP conference! See you in Miami! 
+- *7/2024*: &nbsp;🎉🎉 One paper accepted to CIKM conference! 
+- *5/2024*: &nbsp;🎉🎉 One paper accepted to ACL conference!
 
 # 📝 Publications 
 †: Equal Contribution
