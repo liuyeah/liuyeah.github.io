@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍🎓 Biography
-I am a Ph.D. candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), and a member of State Key Laboratory of Cognitive Intelligence. My supervisor is Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Previously, I interned at _ByteDance - AI LAB_ and _Huawei - Cloud & AI_, as an algorithm intern. I received my Bachelor degree from USTC in July, 2019, and majored in Electronic Information Engineering.
-
-Currently, I am a visiting Ph.D. student with Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) at The Hong Kong University of Science and Technology (HKUST).
+I am a Ph.D. candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), and a member of State Key Laboratory of Cognitive Intelligence. My supervisor is Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Previously, I was a visiting Ph.D. student with Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) at The Hong Kong University of Science and Technology (HKUST), and interned at _ByteDance - AI LAB_ and _Huawei - Cloud & AI_, as an algorithm intern. I received my Bachelor degree from USTC in July, 2019, and majored in Electronic Information Engineering.
 
 **I am on the job market the next year!** I will graduate with my Ph.D. degree in summer 2025. I am open to faculty/postdoctoral positions or related industry roles. Please get in touch!
 
@@ -35,6 +33,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 
 # 🔥 News
+- *11/2024*: &nbsp;🎉🎉 Finished my visiting at HKUST! Grateful to my advisor and all I’ve met here!!! 
 - *10/2024*: &nbsp;🎉🎉 After four years review, One patent has been granted! 
 - *9/2024*: &nbsp;🎉🎉 One paper accepted to EMNLP conference! See you in Miami! 
 - *7/2024*: &nbsp;🎉🎉 One paper accepted to CIKM conference! 
@@ -139,11 +138,11 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - *2016*: &nbsp;🏅 <em><b><font color="red">National Scholarship</font></b></em>.
 
 # 📖 Educations
-- *May 2024 - now*, Visiting Ph.D. Student, Hong Kong University of Science and Technology (HKUST), Supervisor: Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou). 
 - *Septemper 2019 - now*, Ph.D. Candidate, University of Science and Technology of China (USTC), Supervisor: Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
+- *May 2024 - November 2024*, Visiting Ph.D. Student, Hong Kong University of Science and Technology (HKUST), Supervisor: Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou). 
 - *Septemper 2015 - June 2019*, B.E., University of Science and Technology of China (USTC). 
 
-# 💻 Internships
+# 💻 Internships and Exchange
 - *February 2023 - August 2023*, ByteDance - AI LAB, Beijing, China.
 - *February 2019 - August 2019*, Huawei - Cloud & AI, Hangzhou, China.
 
