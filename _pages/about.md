@@ -142,7 +142,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - *May 2024 - November 2024*, Visiting Ph.D. Student, Hong Kong University of Science and Technology (HKUST), Supervisor: Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou). 
 - *Septemper 2015 - June 2019*, B.E., University of Science and Technology of China (USTC). 
 
-# 💻 Internships and Exchange
+# 💻 Internships
 - *February 2023 - August 2023*, ByteDance - AI LAB, Beijing, China.
 - *February 2019 - August 2019*, Huawei - Cloud & AI, Hangzhou, China.
 
