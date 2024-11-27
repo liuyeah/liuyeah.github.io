@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Ye Liu's Homepage"
-description              : "Currently a visiting Ph.D. student at HKUST,\ a Ph.D. candidate at USTC. \ Previously received my Bachelor degree from USTC in July, 2019"
-repository               : "liuyeah-blip/liuyeah-blip.github.io"
+description              : "Ph.D. candidate at USTC. \ Previously received my Bachelor degree from USTC in July, 2019"
+repository               : "liuyeah/liuyeah.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ye Liu (刘 烨)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "HKUST, USTC"
-  location         : "Hong Kong, China"
+  bio              : "USTC"
+  location         : "Hefei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HYYR4f8AAAAJ"
