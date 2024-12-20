@@ -154,4 +154,4 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 # 🔖 Academic Service
 - *Program Commitee Members*: WWW.
 - *Conference Reviewer*: ACL Rolling Review, ICLR.
-- *Journal Reviewer*: IEEE TKDE, IEEE TBD.
+- *Journal Reviewer*: IEEE TKDE, IEEE TBD, JCST.
