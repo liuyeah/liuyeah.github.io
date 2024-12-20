@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍🎓 Biography
-I am a Ph.D. candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), and a member of State Key Laboratory of Cognitive Intelligence. My supervisor is Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Previously, I was a visiting Ph.D. student with Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) at The Hong Kong University of Science and Technology (HKUST), and interned at _ByteDance - AI LAB_ and _Huawei - Cloud & AI_, as an algorithm intern. I received my Bachelor degree from USTC in July, 2019, and majored in Electronic Information Engineering.
+I am a Ph.D. candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), and a member of State Key Laboratory of Cognitive Intelligence. My supervisor is Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Previously, I was a visiting Ph.D. student with Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) at The Hong Kong University of Science and Technology (HKUST), and interned at _ByteDance - AI LAB_, as an algorithm intern. I received my Bachelor degree from USTC in July, 2019, and majored in Electronic Information Engineering.
 
 **I am on the job market the next year!** I will graduate with my Ph.D. degree in summer 2025. I am open to faculty/postdoctoral positions or related industry roles. Please get in touch!
 
-Here are my [Curriculum Vitae](../personal_cv/CV_YeLiu.pdf) and [Research Statement](../personal_cv/RS_YeLiu.pdf) (November 2024).
+Here are my [Curriculum Vitae](../personal_cv/CV_YeLiu_Nov.pdf) (November 2024).
 
 # 👨🏻‍💻 Research Interest
 My research interests encompass a wide range of subjects within the ﬁelds of **Knowledge-aware Natural Language Processing (NLP)**, focusing on two main areas: (1) Knowledge Acquisition and (2) Knowledge Application. Recently, I am exploring a focused research direction of Knowledge-enhanced Large Language Models (LLMs). I have published more than 20 papers at the top international conferences/journals.
@@ -144,7 +144,6 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 # 💻 Internships
 - *February 2023 - August 2023*, ByteDance - AI LAB, Beijing, China.
-- *February 2019 - August 2019*, Huawei - Cloud & AI, Hangzhou, China.
 
 # 👨🏻‍🏫 Teaching
 - *COMP6110P.02*: Machine Learning and Knowledge Discovery (Fall 2021).
