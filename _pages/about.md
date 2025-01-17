@@ -20,8 +20,6 @@ redirect_from:
 # 👨🏻‍🎓 Biography
 I am a Ph.D. candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), and a member of State Key Laboratory of Cognitive Intelligence. My supervisor is Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Previously, I was a visiting Ph.D. student with Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) at The Hong Kong University of Science and Technology (HKUST), and interned at _ByteDance - AI LAB_, as an algorithm intern. I received my Bachelor degree from USTC in July, 2019, and majored in Electronic Information Engineering.
 
-**I am on the job market the next year!** I will graduate with my Ph.D. degree in summer 2025. I am open to faculty/postdoctoral positions or related industry roles. Please get in touch!
-
 Here is my [Curriculum Vitae](../personal_cv/CV_YeLiu_Nov.pdf) (November 2024).
 
 # 👨🏻‍💻 Research Interest
