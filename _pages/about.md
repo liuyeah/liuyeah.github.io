@@ -31,6 +31,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 
 # 🔥 News
+- *1/2025*: &nbsp;🎉🎉 Two papers accepted to DASFAA conference! 
 - *11/2024*: &nbsp;🎉🎉 Finished my visiting at HKUST! Grateful to my advisor and all I’ve met here!!! 
 - *10/2024*: &nbsp;🎉🎉 After four years review, One patent has been granted! 
 - *9/2024*: &nbsp;🎉🎉 One paper accepted to EMNLP conference! See you in Miami! 
@@ -42,13 +43,18 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 ## Preprint
 - **_Ye Liu_**, Jiajun Zhu, Kai Zhang, Haoyu Tang, Yanghai Zhang, Xukai Liu, Qi Liu, Enhong Chen.\
-  Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection.[[arxiv]](https://arxiv.org/pdf/2407.08952) [[code]](https://anonymous.4open.science/r/DAFND-CE5D).
+  Detect, Investigate, Judge and Determine: A Knowledge-guided Framework for Few-shot Fake News Detection.[[arxiv]](https://arxiv.org/pdf/2407.08952) [[code]](https://anonymous.4open.science/r/DAFND-CE5D).
 - Haoyu Tang†, **_Ye Liu_**†, Xukai Liu, Kai Zhang, Yanghai Zhang, Qi Liu, Enhong Chen.\
   Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models. [[arxiv]](https://arxiv.org/pdf/2407.20271) [[code]](https://github.com/himalalps/ICU).
+
+## 2025
 - Aoran Gan, **_Ye Liu_**, Hongbo Gang, Kai Zhang, Qi Liu, Guoping Hu.\
-  Discover rather than Memorize: A Novel Benchmark for Relational Triple Extraction. [[paper]](https://openreview.net/pdf?id=E8r0jBzfoH)
+  Discover rather than Memorize: A Novel Benchmark for Relational Triple Extraction.\
+  The 30th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2025.
 - Feng Hu, Kai Zhang, **_Ye Liu_**, Meikai Bao, Xukai Liu, Junyu Lu, Linbo Zhu, Qi Liu.\
-  Learnable Relational Knowledge Distillation Through Orthogonal Projection.
+  Learnable Relational Knowledge Distillation Through Orthogonal Projection.\
+  The 30th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2025.
+
 
 ## 2024
 - **_Ye Liu_**, Kai Zhang*, Aoran Gan, Linan Yue, Feng Hu, Qi Liu, Enhong Chen.\
