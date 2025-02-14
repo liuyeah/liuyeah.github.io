@@ -42,9 +42,9 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 †: Equal Contribution
 
 ## Preprint
-- **_Ye Liu_**, Jiajun Zhu, Kai Zhang, Haoyu Tang, Yanghai Zhang, Xukai Liu, Qi Liu, Enhong Chen.\
-  Detect, Investigate, Judge and Determine: A Knowledge-guided Framework for Few-shot Fake News Detection.[[arxiv]](https://arxiv.org/pdf/2407.08952) [[code]](https://anonymous.4open.science/r/DAFND-CE5D).
-- Haoyu Tang†, **_Ye Liu_**†, Xukai Liu, Kai Zhang, Yanghai Zhang, Qi Liu, Enhong Chen.\
+- **_Ye Liu_**, Jiajun Zhu, Xukai Liu, Haoyu Tang, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
+  Detect, Investigate, Judge and Determine: A Knowledge-guided Framework for Few-shot Fake News Detection.[[arxiv]](https://arxiv.org/pdf/2407.08952) [[code]](https://anonymous.4open.science/r/DKFND-ED55).
+- Haoyu Tang†, **_Ye Liu_**†, Xi Zhao, Xukai Liu, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
   Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models. [[arxiv]](https://arxiv.org/pdf/2407.20271) [[code]](https://github.com/himalalps/ICU).
 
 ## 2025
