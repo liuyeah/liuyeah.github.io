@@ -59,7 +59,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 ## 2024
 - **_Ye Liu_**, Kai Zhang*, Aoran Gan, Linan Yue, Feng Hu, Qi Liu, Enhong Chen.\
-  Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models. [[arxiv]](https://arxiv.org/pdf/2407.08967) [[code]](https://github.com/liuyeah/DSARE)\
+  Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models. [[paper]](../publications/YeLiu_DASFAA2024.pdf) [[code]](https://github.com/liuyeah/DSARE)\
   The 29th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2024.
 - Yanghai Zhang, **_Ye Liu_**, Shiwei Wu, Kai Zhang*, Xukai Liu, Qi Liu, Enhong Chen.\
   Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization. [[paper]](https://aclanthology.org/2024.findings-acl.587.pdf) [[code]](https://github.com/ApocalypseH/EGMS)\
