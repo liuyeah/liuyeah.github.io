@@ -31,6 +31,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 
 # 🔥 News
+- *3/2025*: &nbsp;🎉🎉 Successfully defended my Ph.D. dissertation!!!
 - *1/2025*: &nbsp;🎉🎉 Two papers accepted to DASFAA conference! 
 - *11/2024*: &nbsp;🎉🎉 Finished my visiting at HKUST! Grateful to my advisor and all I’ve met here!!! 
 - *10/2024*: &nbsp;🎉🎉 After four years review, One patent has been granted! 
