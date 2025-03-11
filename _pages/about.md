@@ -137,8 +137,8 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   The 2020 IEEE International Conference on Data Mining (**_ICDM_**), 2020.
 
 # 🎖 Honors and Awards
-- *2023*: &nbsp;🏅 CICAI Finalist of Best Paper Award (Top-3). 
 - *2019, 2020, 2022 - 2024*: &nbsp;🏅 Graduate Student First-class Academic Scholarship.
+- *2023*: &nbsp;🏅 CICAI Finalist of Best Paper Award (Top-3). 
 - *2021*: &nbsp;🏅 Graduate Student Second-class Academic Scholarship.
 - *2016*: &nbsp;🏅 <em><b><font color="red">National Scholarship</font></b></em>.
 
