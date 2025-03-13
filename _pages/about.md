@@ -136,6 +136,14 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   Technical Phrase Extraction for Patent Mining: A Multi-level Approach. [[paper]](../publications/Ye-Liu-ICDM.pdf) [[code]](https://github.com/liuyeah/UMTPE)\
   The 2020 IEEE International Conference on Data Mining (**_ICDM_**), 2020.
 
+# 🎙️ Talk
+- **March 3, 2025**
+  📌 *Research on Knowledge Concept Mining and Application Methods for Trustworthy Natural Language Processing*
+  📍 *Location: USTC*
+- **September 19, 2024**
+  📌 *Knowledge-aware NLP Techniques for Trustworthy AI Systems*
+  📍 *Weill Cornell Medicine, Cornell University (Online)*
+
 # 🎖 Honors and Awards
 - *2019, 2020, 2022 - 2024*: &nbsp;🏅 Graduate Student First-class Academic Scholarship.
 - *2023*: &nbsp;🏅 CICAI Finalist of Best Paper Award (Top-3). 
