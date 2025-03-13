@@ -38,7 +38,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - *7/2024*: &nbsp;🎉🎉 One paper accepted to CIKM conference! 
 - *5/2024*: &nbsp;🎉🎉 One paper accepted to ACL conference!
 
-# 🎙️ Talks
+# Talks
 - **_March 3, 2025_**\
   📌 *Title:* Research on Knowledge Concept Mining and Application Methods for Trustworthy Natural Language Processing. [[slides]](../personal_cv/PhD_Defense.pdf)\
   📍 *Location:* University of Science and Technology of China.
