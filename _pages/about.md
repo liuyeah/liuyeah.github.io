@@ -137,11 +137,11 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   The 2020 IEEE International Conference on Data Mining (**_ICDM_**), 2020.
 
 # 🎙️ Talk
-- **March 3, 2025**
-  📌 *Research on Knowledge Concept Mining and Application Methods for Trustworthy Natural Language Processing*
+- **March 3, 2025**\
+  📌 *Research on Knowledge Concept Mining and Application Methods for Trustworthy Natural Language Processing* [[slides]](../personal_cv/PhD_Defense.pdf)\
   📍 *Location: USTC*
-- **September 19, 2024**
-  📌 *Knowledge-aware NLP Techniques for Trustworthy AI Systems*
+- **September 19, 2024**\
+  📌 *Knowledge-aware NLP Techniques for Trustworthy AI Systems* [[slides]](../publications/KnowNLP_YeLiu.pdf)\
   📍 *Weill Cornell Medicine, Cornell University (Online)*
 
 # 🎖 Honors and Awards
