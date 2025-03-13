@@ -21,8 +21,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  # - title: "Industrial Experience"
-  #   url: "/#-industrial-experience"
+  - title: "Industrial Experience"
+    url: "/#-industrial-experience"
 
   - title: "Teaching"
     url: "/#-teaching"
