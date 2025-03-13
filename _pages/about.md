@@ -29,7 +29,6 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - **Knowledge Application**: Application of extracted knowledge in various NLP downstream tasks, including but not limited to: Hierarchical Text Classiﬁcation (HTC), Multimodal Summarization with Multimodal Output (MSMO), Question Answering (QA), etc.
 - **Knowledge-enhanced LLMs**: Mitigate the hallucination problem and elicit complex reasoning ability of LLMs with the integration of internal/external knowledge, mainly through the approaches such as pre-training and Retrieval-Augmented Generation (RAG).
 
-
 # 🔥 News
 - *3/2025*: &nbsp;🎉🎉 Successfully defended my Ph.D. dissertation!!! [[slides]](../personal_cv/PhD_Defense.pdf)
 - *1/2025*: &nbsp;🎉🎉 Two papers accepted to DASFAA conference! 
