@@ -39,21 +39,13 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - *7/2024*: &nbsp;🎉🎉 One paper accepted to CIKM conference! 
 - *5/2024*: &nbsp;🎉🎉 One paper accepted to ACL conference!
 
-# 🎙️ Talk
+# 🎙️ Talks
 - **March 3, 2025**\
   📌 *Title:* Research on Knowledge Concept Mining and Application Methods for Trustworthy Natural Language Processing. [[slides]](../personal_cv/PhD_Defense.pdf)\
-  📍 *Location:* USTC.
+  📍 *Location:* University of Science and Technology of China.
 - **September 19, 2024**\
   📌 *Title:* Knowledge-aware NLP Techniques for Trustworthy AI Systems. [[slides]](../publications/KnowNLP_YeLiu.pdf)\
   📍 *Location:* Weill Cornell Medicine, Cornell University (Online).
-
-# 📖 Educations
-- *Septemper 2019 - now*, Ph.D. Candidate, University of Science and Technology of China (USTC), Supervisor: Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
-- *May 2024 - November 2024*, Visiting Ph.D. Student, Hong Kong University of Science and Technology (HKUST), Supervisor: Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou). 
-- *Septemper 2015 - June 2019*, B.E., University of Science and Technology of China (USTC).
-
-# 💻 Industrial Experience
-- *February 2023 - August 2023*, ByteDance - AI LAB, Beijing, China.
 
 # 📝 Publications 
 †: Equal Contribution
@@ -151,6 +143,14 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - **_Ye Liu_**, Han Wu, Zhenya Huang, Hao Wang, Jianhui Ma, Qi Liu, Enhong Chen*, Hanqing Tao and Ke Rui.\
   Technical Phrase Extraction for Patent Mining: A Multi-level Approach. [[paper]](../publications/Ye-Liu-ICDM.pdf) [[code]](https://github.com/liuyeah/UMTPE)\
   The 2020 IEEE International Conference on Data Mining (**_ICDM_**), 2020.
+
+# 📖 Educations
+- *Septemper 2019 - now*, Ph.D. Candidate, University of Science and Technology of China (USTC), Supervisor: Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
+- *May 2024 - November 2024*, Visiting Ph.D. Student, Hong Kong University of Science and Technology (HKUST), Supervisor: Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou). 
+- *Septemper 2015 - June 2019*, B.E., University of Science and Technology of China (USTC).
+
+# 💻 Industrial Experience
+- *February 2023 - August 2023*, ByteDance - AI LAB, Beijing, China.
 
 # 🎖 Honors and Awards
 - *2019, 2020, 2022 - 2024*: &nbsp;🏅 Graduate Student First-class Academic Scholarship.
