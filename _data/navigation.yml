@@ -15,15 +15,15 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Industrial Experience"
     url: "/#-industrial-experience"
 
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+    
   - title: "Teaching"
     url: "/#-teaching"
 
