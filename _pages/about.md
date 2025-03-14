@@ -43,7 +43,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   📌 *Title:* Research on Knowledge Concept Mining and Application Methods for Trustworthy Natural Language Processing. [[slides]](../personal_cv/PhD_Defense.pdf)\
   📍 *Location:* University of Science and Technology of China.
 - **_September 19, 2024_**\
-  📌 *Title:* Knowledge-aware NLP Techniques for Trustworthy AI Systems. [[slides]](../publications/KnowNLP_YeLiu.pdf)\
+  📌 *Title:* Knowledge-aware NLP Techniques for Trustworthy AI Systems. [[poster]](../personal_cv/Talk Y. Liu vF.pdf) [[slides]](../publications/KnowNLP_YeLiu.pdf)\
   📍 *Location:* Weill Cornell Medicine, Cornell University (Online).
 
 
