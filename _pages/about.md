@@ -58,10 +58,10 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 ## 2025
 - Aoran Gan, **_Ye Liu_**, Hongbo Gang, Kai Zhang, Qi Liu, Guoping Hu.\
-  Discover rather than Memorize: A Novel Benchmark for Relational Triple Extraction. [[paper]](../publications/DASFAA2025_AoranGan.pdf) [[data]](https://github.com/Kast-Nora/ENT-Dataset)\
+  From Memorization to Discovery: A Novel Benchmark for Relational Triple Extraction. [[paper]](../publications/DASFAA2025_AoranGan.pdf) [[data]](https://github.com/Kast-Nora/ENT-Dataset)\
   The 30th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2025.
 - Feng Hu, Kai Zhang, **_Ye Liu_**, Meikai Bao, Xukai Liu, Junyu Lu, Linbo Zhu, Qi Liu.\
-  Learnable Relational Knowledge Distillation Through Orthogonal Projection. [[paper]](../publications/DASFAA2025_FengHu.pdf) [[code]](https://github.com/python-bruce/LRKD)\
+  Learnable Relational Knowledge Distillation For Language Model Compression. [[paper]](../publications/DASFAA2025_FengHu.pdf) [[code]](https://github.com/python-bruce/LRKD)\
   The 30th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2025.
 
 ## 2024
