@@ -144,7 +144,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   The 2020 IEEE International Conference on Data Mining (**_ICDM_**), 2020.
 
 # 📖 Educations
-- *Septemper 2019 - April, 2025*, Ph.D., University of Science and Technology of China (USTC), Supervisor: Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
+- *Septemper 2019 - April 2025*, Ph.D., University of Science and Technology of China (USTC), Supervisor: Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/).
 - *May 2024 - November 2024*, Visiting Ph.D. Student, Hong Kong University of Science and Technology (HKUST), Supervisor: Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou). 
 - *Septemper 2015 - June 2019*, B.E., University of Science and Technology of China (USTC).
 
