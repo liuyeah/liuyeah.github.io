@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ye Liu's Homepage"
+title                    : "Ye LIU's Homepage"
 description              : "Science is the poetry of reality."
 repository               : "liuyeah/liuyeah.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ye Liu (刘 烨)"
+  name             : "Ye LIU（刘烨）"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D., USTC (2025)<br>B.E., USTC (2019)"
   location         : "Hefei, China"
