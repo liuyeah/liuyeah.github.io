@@ -52,11 +52,11 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 
 ## Preprint
 - **_Ye Liu_**, Jiajun Zhu, Xukai Liu, Haoyu Tang, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
-  Detect, Investigate, Judge and Determine: A Knowledge-guided Framework for Few-shot Fake News Detection.[[arxiv]](https://arxiv.org/pdf/2407.08952) [[code]](https://anonymous.4open.science/r/DKFND-ED55).
+  Detect, Investigate, Judge and Determine: A Knowledge-guided Framework for Few-shot Fake News Detection.[[arxiv]](https://arxiv.org/pdf/2407.08952) [[code]](https://anonymous.4open.science/r/DKFND-ED55)
 - Haoyu Tang†, **_Ye Liu_**†, Xi Zhao, Xukai Liu, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
-  Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models. [[arxiv]](https://arxiv.org/pdf/2407.20271) [[code]](https://github.com/himalalps/ICU).
+  Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models. [[arxiv]](https://arxiv.org/pdf/2407.20271) [[code]](https://github.com/himalalps/ICU)
 - Xukai Liu, **_Ye Liu_**, Shiwen Wu, Yanghai Zhang, Yihao Yuan, Kai Zhang, Qi Liu.\
-  Know³-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering.
+  Know³-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering. [[arxiv]](https://arxiv.org/pdf/2505.12662) [[code]](https://github.com/laquabe/Know3RAG)
 
 ## 2025
 - Aoran Gan, **_Ye Liu_**, Hongbo Gang, Kai Zhang, Qi Liu, Guoping Hu.\
