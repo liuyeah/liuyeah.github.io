@@ -57,6 +57,8 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models. [[arxiv]](https://arxiv.org/pdf/2407.20271) [[code]](https://github.com/himalalps/ICU)
 - Xukai Liu, **_Ye Liu_**, Shiwen Wu, Yanghai Zhang, Yihao Yuan, Kai Zhang, Qi Liu.\
   Know³-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering. [[arxiv]](https://arxiv.org/pdf/2505.12662) [[code]](https://github.com/laquabe/Know3RAG)
+- Jiajun Zhu, **_Ye Liu_**, Meikai Bao, Kai Zhang, Yanghai Zhang, Qi Liu.\
+  Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning Reliability for Question Answering.
 
 ## 2025
 - Aoran Gan, **_Ye Liu_**, Hongbo Gang, Kai Zhang, Qi Liu, Guoping Hu.\
@@ -168,5 +170,5 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 # 🔖 Academic Service
 - *Area Chairs*: ACL Rolling Review.
 - *Program Commitee Members*: WWW.
-- *Conference Reviewer*: ACL Rolling Review, ICLR.
+- *Conference Reviewer*: ACL Rolling Review, ICLR, NeurIPS.
 - *Journal Reviewer*: IEEE TKDE, IEEE TBD, JCST.
