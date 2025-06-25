@@ -156,6 +156,8 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - *February 2023 - August 2023*, ByteDance - AI LAB, Beijing, China.
 
 # 🎖 Honors and Awards
+- *2025*: &nbsp;🏅 Outstanding Graduate of Anhui Province.
+- *2025*: &nbsp;🏅 Outstanding Graduate of University of Science and Technology of China.
 - *2019, 2020, 2022 - 2024*: &nbsp;🏅 Graduate Student First-class Academic Scholarship.
 - *2023*: &nbsp;🏅 CICAI Finalist of Best Paper Award (Top-3). 
 - *2021*: &nbsp;🏅 Graduate Student Second-class Academic Scholarship.
