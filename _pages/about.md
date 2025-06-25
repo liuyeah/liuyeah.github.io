@@ -30,6 +30,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - **Knowledge-enhanced LLMs**: Mitigate the hallucination problem and elicit complex reasoning ability of LLMs with the integration of internal/external knowledge, mainly through the approaches such as pre-training and Retrieval-Augmented Generation (RAG).
 
 # 🔥 News
+- *6/2025*: &nbsp;🎉🎉 Received dual Outstanding Graduate honors from both USTC and Anhui Province! 
 - *3/2025*: &nbsp;🎉🎉 Successfully defended my Ph.D. dissertation!!! [[slides]](../personal_cv/PhD_Defense.pdf)
 - *1/2025*: &nbsp;🎉🎉 Two papers accepted to DASFAA conference! 
 - *11/2024*: &nbsp;🎉🎉 Finished my visiting at HKUST! Grateful to my advisor and all I’ve met here!!! 
@@ -156,10 +157,10 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - *February 2023 - August 2023*, ByteDance - AI LAB, Beijing, China.
 
 # 🎖 Honors and Awards
-- *2025*: &nbsp;🏅 Outstanding Graduate of Anhui Province.
-- *2025*: &nbsp;🏅 Outstanding Graduate of University of Science and Technology of China.
+- *2025*: &nbsp;🏅 Outstanding Graduate of Anhui Province. [[certificate]](../personal_cv/Anhui_Graduate.pdf)
+- *2025*: &nbsp;🏅 Outstanding Graduate of University of Science and Technology of China. [[certificate]](../personal_cv/USTC_Graduate.pdf)
 - *2019, 2020, 2022 - 2024*: &nbsp;🏅 Graduate Student First-class Academic Scholarship.
-- *2023*: &nbsp;🏅 CICAI Finalist of Best Paper Award (Top-3). 
+- *2023*: &nbsp;🏅 CICAI Finalist of Best Paper Award (Top-3). [[certificate]](../publications/cicai_best_paper.pdf)
 - *2021*: &nbsp;🏅 Graduate Student Second-class Academic Scholarship.
 - *2016*: &nbsp;🏅 <em><b><font color="red">National Scholarship</font></b></em>.
 
