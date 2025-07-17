@@ -68,6 +68,9 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - Feng Hu, Kai Zhang, **_Ye Liu_**, Meikai Bao, Xukai Liu, Junyu Lu, Linbo Zhu, Qi Liu.\
   Learnable Relational Knowledge Distillation For Language Model Compression. [[paper]](../publications/DASFAA2025_FengHu.pdf) [[code]](https://github.com/python-bruce/LRKD)\
   The 30th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2025.
+- Linan Yue, Qi Liu, Ye Liu, Weibo Gao, et al. \
+  Learning from shortcut: a shortcut-guided approach for explainable graph learning. [[paper]](https://link.springer.com/article/10.1007/s11704-024-40452-4)\
+  Frontiers of Computer Science (**_FCS_**), 2025.
 
 ## 2024
 - **_Ye Liu_**, Kai Zhang*, Aoran Gan, Linan Yue, Feng Hu, Qi Liu, Enhong Chen.\
