@@ -60,6 +60,8 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   Know³-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering. [[arxiv]](https://arxiv.org/pdf/2505.12662) [[code]](https://github.com/laquabe/Know3RAG)
 - Jiajun Zhu, **_Ye Liu_**, Meikai Bao, Kai Zhang, Yanghai Zhang, Qi Liu.\
   Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning Reliability for Question Answering. [[arxiv]](https://arxiv.org/pdf/2505.19410) [[code]](https://anonymous.4open.science/r/SRP-E06C)
+- Linan Yue, Yichao Du, Yizhi Wang, Weibo Gao, Fangzhou Yao, Li Wang, **_Ye Liu_**, Ziyu Xu, Qi Liu, Shimin Di, Min-Ling Zhang.\
+  Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models. [[arxiv]](https://www.arxiv.org/pdf/2508.02120)
 
 ## 2025
 - Aoran Gan, **_Ye Liu_**, Hongbo Gang, Kai Zhang, Qi Liu, Guoping Hu.\
