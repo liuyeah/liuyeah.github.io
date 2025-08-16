@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ye LIU's Homepage"
-description              : "The more things change, the more they stay the same."
+description              : "Ph.D., USTC (2025)<br>B.E., USTC (2019)"
 repository               : "liuyeah/liuyeah.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ye LIU（刘烨）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D., USTC (2025)<br>B.E., USTC (2019)"
-  location         : "Hefei, China"
+  bio              : "Post Doctoral Scholar at Ohio State University"
+  location         : "Columbus, Ohio, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HYYR4f8AAAAJ"
