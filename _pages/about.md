@@ -32,6 +32,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - **Knowledge-enhanced LLMs**: Mitigate the hallucination problem and elicit complex reasoning ability of LLMs with the integration of internal/external knowledge, mainly through the approaches such as pre-training and Retrieval-Augmented Generation (RAG).
 
 # 🔥 News
+- *8/2025*: &nbsp;🎉🎉 Two papers accepted to ICDM conference! See you in Washington DC!
 - *8/2025*: &nbsp;🥳🥳 Excited to share that I’ll be joining The Ohio State University (OSU) as a Postdoctoral Scholar in Fall 2025!!!
 - *6/2025*: &nbsp;🎉🎉 Received dual Outstanding Graduate honors from both USTC and Anhui Province! 
 - *3/2025*: &nbsp;🎉🎉 Successfully defended my Ph.D. dissertation!!! [[slides]](../personal_cv/PhD_Defense.pdf)
@@ -55,10 +56,6 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 †: Equal Contribution
 
 ## Preprint
-- **_Ye Liu_**, Jiajun Zhu, Xukai Liu, Haoyu Tang, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
-  Detect, Investigate, Judge and Determine: A Knowledge-guided Framework for Few-shot Fake News Detection.[[arxiv]](https://arxiv.org/pdf/2407.08952) [[code]](https://anonymous.4open.science/r/DKFND-ED55)
-- Haoyu Tang†, **_Ye Liu_**†, Xi Zhao, Xukai Liu, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
-  Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models. [[arxiv]](https://arxiv.org/pdf/2407.20271) [[code]](https://github.com/himalalps/ICU)
 - Xukai Liu, **_Ye Liu_**, Shiwen Wu, Yanghai Zhang, Yihao Yuan, Kai Zhang, Qi Liu.\
   Know³-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering. [[arxiv]](https://arxiv.org/pdf/2505.12662) [[code]](https://github.com/laquabe/Know3RAG)
 - Jiajun Zhu, **_Ye Liu_**, Meikai Bao, Kai Zhang, Yanghai Zhang, Qi Liu.\
@@ -67,6 +64,12 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models. [[arxiv]](https://www.arxiv.org/pdf/2508.02120)
 
 ## 2025
+- **_Ye Liu_**, Jiajun Zhu, Xukai Liu, Haoyu Tang, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
+  Detect, Investigate, Judge and Determine: A Knowledge-guided Framework for Few-shot Fake News Detection.[[arxiv]](https://arxiv.org/pdf/2407.08952) [[code]](https://anonymous.4open.science/r/DKFND-ED55)\
+  The 25th IEEE International Conference on Data Mining (**_ICDM_**), 2025.
+- Haoyu Tang†, **_Ye Liu_**†, Xi Zhao, Xukai Liu, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
+  Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models. [[arxiv]](https://arxiv.org/pdf/2407.20271) [[code]](https://github.com/himalalps/ICU)\
+  The 25th IEEE International Conference on Data Mining (**_ICDM_**), 2025.
 - Aoran Gan, **_Ye Liu_**, Hongbo Gang, Kai Zhang, Qi Liu, Guoping Hu.\
   From Memorization to Discovery: A Novel Benchmark for Relational Triple Extraction. [[paper]](../publications/DASFAA2025_AoranGan.pdf) [[data]](https://github.com/Kast-Nora/ENT-Dataset)\
   The 30th International Conference on Database Systems for Advanced Applications (**_DASFAA_**), 2025.
