@@ -36,12 +36,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - *8/2025*: &nbsp;🥳🥳 Excited to share that I’ll be joining The Ohio State University (OSU) as a Postdoctoral Scholar in Fall 2025!!!
 - *6/2025*: &nbsp;🎉🎉 Received dual Outstanding Graduate honors from both USTC and Anhui Province! 
 - *3/2025*: &nbsp;🎉🎉 Successfully defended my Ph.D. dissertation!!! [[slides]](../personal_cv/PhD_Defense.pdf)
-- *1/2025*: &nbsp;🎉🎉 Two papers accepted to DASFAA conference! 
 - *11/2024*: &nbsp;🎉🎉 Finished my visiting at HKUST! Grateful to my advisor and all I’ve met here!!! 
-- *10/2024*: &nbsp;🎉🎉 After four years review, One patent has been granted! 
-- *9/2024*: &nbsp;🎉🎉 One paper accepted to EMNLP conference! See you in Miami! 
-- *7/2024*: &nbsp;🎉🎉 One paper accepted to CIKM conference! 
-- *5/2024*: &nbsp;🎉🎉 One paper accepted to ACL conference!
 
 # 🎤 Talks
 - **_March 3, 2025_**\
