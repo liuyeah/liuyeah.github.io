@@ -25,7 +25,7 @@ I received my Ph.D. degree from the School of Artificial Intelligence and Data S
 Here is my [Curriculum Vitae](../personal_cv/CV_YeLiu.pdf) (September 2025).
 
 # 👨🏻‍💻 Research Interest
-My research interests encompass a wide range of subjects within the ﬁelds of **Knowledge-aware Natural Language Processing (NLP)**, focusing on two main areas: (1) Knowledge Acquisition and (2) Knowledge Application. Recently, I am exploring a focused research direction of Knowledge-enhanced Large Language Models (LLMs). I have published more than 20 papers at the top international conferences/journals.
+My research interests encompass a wide range of subjects within the ﬁelds of **Knowledge-aware Natural Language Processing (NLP)**, focusing on two main areas: (1) Knowledge Acquisition and (2) Knowledge Application. Recently, I am exploring a focused research direction of Knowledge-enhanced Large Language Models (LLMs). I have published more than 30 papers at the top international conferences/journals.
 
 - **Knowledge Acquisition**: Acquisition of knowledge concept, knowledge relation, knowledge linking and alignment using information extraction, crowd-sourcing, and LLM In-Context Learning (ICL) techniques.
 - **Knowledge Application**: Application of extracted knowledge in various NLP downstream tasks, including but not limited to: Hierarchical Text Classiﬁcation (HTC), Multimodal Summarization with Multimodal Output (MSMO), Question Answering (QA), etc.
