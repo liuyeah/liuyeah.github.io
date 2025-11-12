@@ -179,5 +179,5 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 # 🔖 Academic Service
 - *Area Chairs*: ACL Rolling Review.
 - *Program Commitee Members*: WWW, AAAI.
-- *Conference Reviewer*: ACL Rolling Review, ICLR, NeurIPS.
+- *Conference Reviewer*: ACL Rolling Review, ICLR, NeurIPS, CVPR.
 - *Journal Reviewer*: IEEE TKDE, IEEE TBD, Neural Networks, JCST.
