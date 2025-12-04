@@ -57,6 +57,8 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
   Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning Reliability for Question Answering. [[arxiv]](https://arxiv.org/pdf/2505.19410) [[code]](https://anonymous.4open.science/r/SRP-E06C)
 - Linan Yue, Yichao Du, Yizhi Wang, Weibo Gao, Fangzhou Yao, Li Wang, **_Ye Liu_**, Ziyu Xu, Qi Liu, Shimin Di, Min-Ling Zhang.\
   Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models. [[arxiv]](https://www.arxiv.org/pdf/2508.02120)
+- Zheng Huang, Xukai Liu, Tianyu Hu, Kai Zhang, **_Ye Liu_**.\
+  PPTBench: Towards Holistic Evaluation of Large Language Models for PowerPoint Layout and Design Understanding. [[arxiv]](https://arxiv.org/pdf/2512.02624) [[code&data]](https://github.com/Gastronomicluna/PPTBench-Eval)
 
 ## 2025
 - **_Ye Liu_**, Jiajun Zhu, Xukai Liu, Haoyu Tang, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
