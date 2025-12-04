@@ -32,6 +32,7 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 - **Knowledge-enhanced LLMs**: Mitigate the hallucination problem and elicit complex reasoning ability of LLMs with the integration of internal/external knowledge, mainly through the approaches such as pre-training and Retrieval-Augmented Generation (RAG).
 
 # 🔥 News
+- *12/2025*: &nbsp;🎉🎉 Excited to introduce PPTBench, our new benchmark for holistic evaluation of LLMs on PowerPoint layout and design.
 - *8/2025*: &nbsp;🎉🎉 Two papers accepted to ICDM conference! See you in Washington DC!
 - *8/2025*: &nbsp;🥳🥳 Excited to share that I’ll be joining The Ohio State University (OSU) as a Postdoctoral Scholar in Fall 2025!!!
 - *6/2025*: &nbsp;🎉🎉 Received dual Outstanding Graduate honors from both USTC and Anhui Province! 
