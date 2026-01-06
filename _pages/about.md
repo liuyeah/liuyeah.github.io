@@ -52,6 +52,8 @@ My research interests encompass a wide range of subjects within the ﬁelds of *
 †: Equal Contribution
 
 ## Preprint
+- Xukai Liu†, **_Ye Liu_**†, Jipeng Zhang, Yanghai Zhang, Kai Zhang, Qi Liu.\
+  Layer-Order Inversion: Rethinking Latent Multi-Hop Reasoning in Large Language Models.
 - Xukai Liu, **_Ye Liu_**, Shiwen Wu, Yanghai Zhang, Yihao Yuan, Kai Zhang, Qi Liu.\
   Know³-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering. [[arxiv]](https://arxiv.org/pdf/2505.12662) [[code]](https://github.com/laquabe/Know3RAG)
 - Jiajun Zhu, **_Ye Liu_**, Meikai Bao, Kai Zhang, Yanghai Zhang, Qi Liu.\
