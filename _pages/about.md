@@ -22,14 +22,15 @@ I am currently a Postdoctoral Scholar at The Ohio State University (OSU), under 
 
 I received my Ph.D. degree from the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC) in April, 2025, under the supervision of Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Previously, I was a visiting Ph.D. student with Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) at The Hong Kong University of Science and Technology (HKUST), and interned at _ByteDance - AI LAB_, as an algorithm intern. I received my Bachelor degree from USTC in July, 2019, and majored in Electronic Information Engineering.
 
-Here is my [Curriculum Vitae](../personal_cv/CV_YeLiu.pdf) (September 2025).
+Here is my [Curriculum Vitae](../personal_cv/CV_YeLiu.pdf) (January 2026).
 
 # 👨🏻‍💻 Research Interest
-My research interests encompass a wide range of subjects within the ﬁelds of **Knowledge-aware Natural Language Processing (NLP)**, focusing on two main areas: (1) Knowledge Acquisition and (2) Knowledge Application. Recently, I am exploring a focused research direction of Knowledge-enhanced Large Language Models (LLMs). I have published more than 30 papers at the top international conferences/journals.
+My research focuses on **agentic artificial intelligence** built upon large language models (LLMs), with the goal of developing adaptive, reliable, and collaborative AI systems for complex real-world domains, particularly healthcare and scientific discovery. My research interests include:
 
-- **Knowledge Acquisition**: Acquisition of knowledge concept, knowledge relation, knowledge linking and alignment using information extraction, crowd-sourcing, and LLM In-Context Learning (ICL) techniques.
-- **Knowledge Application**: Application of extracted knowledge in various NLP downstream tasks, including but not limited to: Hierarchical Text Classiﬁcation (HTC), Multimodal Summarization with Multimodal Output (MSMO), Question Answering (QA), etc.
-- **Knowledge-enhanced LLMs**: Mitigate the hallucination problem and elicit complex reasoning ability of LLMs with the integration of internal/external knowledge, mainly through the approaches such as pre-training and Retrieval-Augmented Generation (RAG).
+- **Tool Learning and Agentic AI**: Enabling LLM-based agents to understand, select, and utilize diverse external tools through representation learning, continual adaptation, and human-in-the-loop feedback.
+- **Trustworthy Large Language Models**: Improving the reasoning reliability and decision quality of LLMs via retrieval-augmented generation, instruction tuning, and interaction with structured knowledge and external systems, addressing the high-stakes and low-tolerance requirements of health and science applications.
+- **System-Level AI for Healthcare and Science**: Designing end-to-end agentic AI pipelines that integrate perception, retrieval, reasoning, and action for scientific discovery and healthcare decision-making.
+
 
 # 🔥 News
 - *12/2025*: &nbsp;🎉🎉 Excited to introduce PPTBench, our new benchmark for holistic evaluation of LLMs on PowerPoint layout and design.
