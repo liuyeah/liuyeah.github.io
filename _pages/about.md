@@ -185,5 +185,5 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 # 🔖 Academic Service
 - *Area Chairs*: ACL Rolling Review.
 - *Program Commitee Members*: WWW, AAAI.
-- *Conference Reviewer*: ACL Rolling Review, ICLR, NeurIPS, CVPR, ECCV.
+- *Conference Reviewer*: ACL Rolling Review, ICLR, NeurIPS, CVPR, ECCV, SIGIR.
 - *Journal Reviewer*: IEEE TKDE, IEEE TBD, Neural Networks, JCST.
