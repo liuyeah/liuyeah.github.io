@@ -177,6 +177,7 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 - *2016*: &nbsp;🏅 <em><b><font color="red">National Scholarship</font></b></em>.
 
 # 👨🏻‍🏫 Teaching
+- *VETPREV 8725*: Quantitative Methods Capstone Seminar (Spring 2026).
 - *COMP6110P.02*: Machine Learning and Knowledge Discovery (Fall 2021).
 - *CS1001A.13*: Computer Programming A (Fall 2020).
 - *011X3001*: Introduction to Data Science (Fall 2019).
