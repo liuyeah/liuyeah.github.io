@@ -177,11 +177,11 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 - *2016*: &nbsp;🏅 <em><b><font color="red">National Scholarship</font></b></em>.
 
 # 👨🏻‍🏫 Teaching
-- *VETPREV 8725*: Quantitative Methods Capstone Seminar (Spring 2026).
-- *COMP6110P.02*: Machine Learning and Knowledge Discovery (Fall 2021).
-- *CS1001A.13*: Computer Programming A (Fall 2020).
-- *011X3001*: Introduction to Data Science (Fall 2019).
-- *011164.01*: Computer Programming I (Fall 2018).
+- *VETPREV 8725*: Quantitative Methods Capstone Seminar (Spring 2026, OSU).
+- *COMP6110P.02*: Machine Learning and Knowledge Discovery (Fall 2021, USTC).
+- *CS1001A.13*: Computer Programming A (Fall 2020, USTC).
+- *011X3001*: Introduction to Data Science (Fall 2019, USTC).
+- *011164.01*: Computer Programming I (Fall 2018, USTC).
 
 # 🔖 Academic Service
 - *Area Chairs*: ACL Rolling Review.
