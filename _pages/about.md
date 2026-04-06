@@ -53,6 +53,8 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 †: Equal Contribution
 
 ## Preprint
+- Xinyi Ling†, **_Ye Liu_**†, Reza Averly, Xia Ning.\
+  Uncertainty as a Planning Signal: Multi-Turn Decision Making for Goal-Oriented Conversation
 - Xukai Liu†, **_Ye Liu_**†, Jipeng Zhang, Yanghai Zhang, Kai Zhang, Qi Liu.\
   Layer-Order Inversion: Rethinking Latent Multi-Hop Reasoning in Large Language Models. [[arxiv]](https://arxiv.org/pdf/2601.03542) [[code]](https://github.com/laquabe/Layer-Order-Inversion)
 - Xukai Liu, **_Ye Liu_**, Shiwen Wu, Yanghai Zhang, Yihao Yuan, Kai Zhang, Qi Liu.\
