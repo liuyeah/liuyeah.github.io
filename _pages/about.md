@@ -22,7 +22,7 @@ I am currently a Postdoctoral Scholar at The Ohio State University (OSU), under 
 
 I received my Ph.D. degree from the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC) in April, 2025, under the supervision of Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). Previously, I was a visiting Ph.D. student with Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) at The Hong Kong University of Science and Technology (HKUST), and interned at _ByteDance - AI LAB_, as an algorithm intern. I received my Bachelor degree from USTC in July, 2019, and majored in Electronic Information Engineering.
 
-Here is my [Curriculum Vitae](../personal_cv/CV_YeLiu.pdf) (January 2026).
+Here is my [Curriculum Vitae](../personal_cv/CV_YeLiu.pdf) (May 2026).
 
 # 👨🏻‍💻 Research Interest
 My research focuses on **agentic artificial intelligence** built upon large language models (LLMs), with the goal of developing adaptive, reliable, and collaborative AI systems for complex real-world domains, particularly healthcare and scientific discovery. My research interests include:
