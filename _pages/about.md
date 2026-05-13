@@ -53,8 +53,8 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 †: Equal Contribution
 
 ## Preprint
-- **_Ye Liu_**, Botao Yu, Xinyi Ling, Daniel Adu-Ampratwum, Xia Ning. [[arxiv]](https://arxiv.org/pdf/2605.07103) [[code]](https://anonymous.4open.science/r/ARMOR-E13F)\
-  ARMOR: An Agentic Framework for Reaction Feasibility Prediction via Adaptive Utility-aware Multi-tool Reasoning.
+- **_Ye Liu_**, Botao Yu, Xinyi Ling, Daniel Adu-Ampratwum, Xia Ning.\
+  ARMOR: An Agentic Framework for Reaction Feasibility Prediction via Adaptive Utility-aware Multi-tool Reasoning. [[arxiv]](https://arxiv.org/pdf/2605.07103) [[code]](https://anonymous.4open.science/r/ARMOR-E13F)
 - Xinyi Ling†, **_Ye Liu_**†, Reza Averly, Xia Ning.\
   Uncertainty as a Planning Signal: Multi-Turn Decision Making for Goal-Oriented Conversation. [[arxiv]](https://arxiv.org/pdf/2604.03924) [[code]](https://anonymous.4open.science/r/CUP-1BD8)
 - Xukai Liu†, **_Ye Liu_**†, Jipeng Zhang, Yanghai Zhang, Kai Zhang, Qi Liu.\
