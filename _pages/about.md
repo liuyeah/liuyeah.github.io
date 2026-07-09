@@ -33,6 +33,7 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 
 
 # 🔥 News
+- *7/2026*: &nbsp;🎉🎉 One paper accepted to COLM-2026! See you in San Francisco!
 - *12/2025*: &nbsp;🎉🎉 Excited to introduce PPTBench, our new benchmark for holistic evaluation of LLMs on PowerPoint layout and design.
 - *8/2025*: &nbsp;🎉🎉 Two papers accepted to ICDM conference! See you in Washington DC!
 - *8/2025*: &nbsp;🥳🥳 Excited to share that I’ll be joining The Ohio State University (OSU) as a Postdoctoral Scholar in Fall 2025!!!
@@ -55,8 +56,6 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 ## Preprint
 - **_Ye Liu_**, Botao Yu, Xinyi Ling, Daniel Adu-Ampratwum, Xia Ning.\
   ARMOR: An Agentic Framework for Reaction Feasibility Prediction via Adaptive Utility-aware Multi-tool Reasoning. [[arxiv]](https://arxiv.org/pdf/2605.07103) [[code]](https://anonymous.4open.science/r/ARMOR-E13F)
-- Xinyi Ling†, **_Ye Liu_**†, Reza Averly, Xia Ning.\
-  Uncertainty as a Planning Signal: Multi-Turn Decision Making for Goal-Oriented Conversation. [[arxiv]](https://arxiv.org/pdf/2604.03924) [[code]](https://anonymous.4open.science/r/CUP-1BD8)
 - Xukai Liu†, **_Ye Liu_**†, Jipeng Zhang, Yanghai Zhang, Kai Zhang, Qi Liu.\
   Layer-Order Inversion: Rethinking Latent Multi-Hop Reasoning in Large Language Models. [[arxiv]](https://arxiv.org/pdf/2601.03542) [[code]](https://github.com/laquabe/Layer-Order-Inversion)
 - Xukai Liu, **_Ye Liu_**, Shiwen Wu, Yanghai Zhang, Yihao Yuan, Kai Zhang, Qi Liu.\
@@ -67,6 +66,11 @@ My research focuses on **agentic artificial intelligence** built upon large lang
   Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models. [[arxiv]](https://www.arxiv.org/pdf/2508.02120)
 - Zheng Huang, Xukai Liu, Tianyu Hu, Kai Zhang, **_Ye Liu_**.\
   PPTBench: Towards Holistic Evaluation of Large Language Models for PowerPoint Layout and Design Understanding. [[arxiv]](https://arxiv.org/pdf/2512.02624) [[code&data]](https://github.com/Gastronomicluna/PPTBench-Eval)
+
+## 2026
+- Xinyi Ling†, **_Ye Liu_**†, Reza Averly, Xia Ning.\
+  Uncertainty as a Planning Signal: Multi-Turn Decision Making for Goal-Oriented Conversation. [[arxiv]](https://arxiv.org/pdf/2604.03924) [[code]](https://anonymous.4open.science/r/CUP-1BD8)\
+  The 3rd Conference on Language Modeling (**_COLM_**), 2026.
 
 ## 2025
 - **_Ye Liu_**, Jiajun Zhu, Xukai Liu, Haoyu Tang, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
