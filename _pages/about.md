@@ -67,10 +67,12 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 - Zheng Huang, Xukai Liu, Tianyu Hu, Kai Zhang, **_Ye Liu_**.\
   PPTBench: Towards Holistic Evaluation of Large Language Models for PowerPoint Layout and Design Understanding. [[arxiv]](https://arxiv.org/pdf/2512.02624) [[code&data]](https://github.com/Gastronomicluna/PPTBench-Eval)
 
+
 ## 2026
 - Xinyi Ling†, **_Ye Liu_**†, Reza Averly, Xia Ning.\
   Uncertainty as a Planning Signal: Multi-Turn Decision Making for Goal-Oriented Conversation. [[arxiv]](https://arxiv.org/pdf/2604.03924) [[code]](https://anonymous.4open.science/r/CUP-1BD8)\
   The 3rd Conference on Language Modeling (**_COLM_**), 2026.
+
 
 ## 2025
 - **_Ye Liu_**, Jiajun Zhu, Xukai Liu, Haoyu Tang, Yanghai Zhang, Kai Zhang, Xiaofang Zhou, Enhong Chen.\
