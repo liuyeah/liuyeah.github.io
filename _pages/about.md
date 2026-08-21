@@ -33,6 +33,7 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 
 
 # 🔥 News
+- *7/2026*: &nbsp;🎉🎉 One paper accepted to EMNLP-2026!
 - *7/2026*: &nbsp;🎉🎉 One paper accepted to COLM-2026! See you in San Francisco!
 - *12/2025*: &nbsp;🎉🎉 Excited to introduce PPTBench, our new benchmark for holistic evaluation of LLMs on PowerPoint layout and design.
 - *8/2025*: &nbsp;🎉🎉 Two papers accepted to ICDM conference! See you in Washington DC!
@@ -56,8 +57,6 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 ## Preprint
 - **_Ye Liu_**, Botao Yu, Xinyi Ling, Daniel Adu-Ampratwum, Xia Ning.\
   ARMOR: An Agentic Framework for Reaction Feasibility Prediction via Adaptive Utility-aware Multi-tool Reasoning. [[arxiv]](https://arxiv.org/pdf/2605.07103) [[code]](https://anonymous.4open.science/r/ARMOR-E13F)
-- Xukai Liu†, **_Ye Liu_**†, Jipeng Zhang, Yanghai Zhang, Kai Zhang, Qi Liu.\
-  Layer-Order Inversion: Rethinking Latent Multi-Hop Reasoning in Large Language Models. [[arxiv]](https://arxiv.org/pdf/2601.03542) [[code]](https://github.com/laquabe/Layer-Order-Inversion)
 - Xukai Liu, **_Ye Liu_**, Shiwen Wu, Yanghai Zhang, Yihao Yuan, Kai Zhang, Qi Liu.\
   Know³-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering. [[arxiv]](https://arxiv.org/pdf/2505.12662) [[code]](https://github.com/laquabe/Know3RAG)
 - Jiajun Zhu, **_Ye Liu_**, Meikai Bao, Kai Zhang, Yanghai Zhang, Qi Liu.\
@@ -72,6 +71,9 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 - Xinyi Ling†, **_Ye Liu_**†, Reza Averly, Xia Ning.\
   Uncertainty as a Planning Signal: Multi-Turn Decision Making for Goal-Oriented Conversation. [[arxiv]](https://arxiv.org/pdf/2604.03924) [[code]](https://anonymous.4open.science/r/CUP-1BD8)\
   The 3rd Conference on Language Modeling (**_COLM_**), 2026.
+- Xukai Liu†, **_Ye Liu_**†, Jipeng Zhang, Yanghai Zhang, Kai Zhang, Qi Liu.\
+  Layer-Order Inversion: Rethinking Latent Multi-Hop Reasoning in Large Language Models. [[arxiv]](https://arxiv.org/pdf/2601.03542) [[code]](https://github.com/laquabe/Layer-Order-Inversion)\
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**_EMNLP_**), 2026.
 
 
 ## 2025
