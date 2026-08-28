@@ -36,11 +36,6 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 - *7/2026*: &nbsp;🎉🎉 One paper accepted to EMNLP-2026!
 - *7/2026*: &nbsp;🎉🎉 One paper accepted to COLM-2026! See you in San Francisco!
 - *12/2025*: &nbsp;🎉🎉 Excited to introduce PPTBench, our new benchmark for holistic evaluation of LLMs on PowerPoint layout and design.
-- *8/2025*: &nbsp;🎉🎉 Two papers accepted to ICDM conference! See you in Washington DC!
-- *8/2025*: &nbsp;🥳🥳 Excited to share that I’ll be joining The Ohio State University (OSU) as a Postdoctoral Scholar in Fall 2025!!!
-- *6/2025*: &nbsp;🎉🎉 Received dual Outstanding Graduate honors from both USTC and Anhui Province! 
-- *3/2025*: &nbsp;🎉🎉 Successfully defended my Ph.D. dissertation!!! [[slides]](../personal_cv/PhD_Defense.pdf)
-- *11/2024*: &nbsp;🎉🎉 Finished my visiting at HKUST! Grateful to my advisor and all I’ve met here!!! 
 
 # 🎤 Talks
 - **_March 3, 2025_**\
