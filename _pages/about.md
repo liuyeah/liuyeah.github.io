@@ -50,6 +50,8 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 †: Equal Contribution
 
 ## Preprint
+- **_Ye Liu_**†, Reza Averly†, Avery Meyer, Frazier N. Baker, Ruoxi Gao, Daniel Adu-Ampratwum, Xia Ning.\
+  MADDIE: Multi-Agent Drug Discovery Engine. 
 - **_Ye Liu_**, Botao Yu, Xinyi Ling, Daniel Adu-Ampratwum, Xia Ning.\
   ARMOR: An Agentic Framework for Reaction Feasibility Prediction via Adaptive Utility-aware Multi-tool Reasoning. [[arxiv]](https://arxiv.org/pdf/2605.07103) [[code]](https://anonymous.4open.science/r/ARMOR-E13F)
 - Xukai Liu, **_Ye Liu_**, Shiwen Wu, Yanghai Zhang, Yihao Yuan, Kai Zhang, Qi Liu.\
