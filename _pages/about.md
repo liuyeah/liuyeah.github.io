@@ -33,6 +33,7 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 
 
 # 🔥 News
+- *11/2026*: &nbsp;🎉🎉 One paper accepted to WSDM-2027!
 - *7/2026*: &nbsp;🎉🎉 One paper accepted to EMNLP-2026!
 - *7/2026*: &nbsp;🎉🎉 One paper accepted to COLM-2026! See you in San Francisco!
 - *12/2025*: &nbsp;🎉🎉 Excited to introduce PPTBench, our new benchmark for holistic evaluation of LLMs on PowerPoint layout and design.
@@ -60,8 +61,11 @@ My research focuses on **agentic artificial intelligence** built upon large lang
   Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning Reliability for Question Answering. [[arxiv]](https://arxiv.org/pdf/2505.19410) [[code]](https://anonymous.4open.science/r/SRP-E06C)
 - Linan Yue, Yichao Du, Yizhi Wang, Weibo Gao, Fangzhou Yao, Li Wang, **_Ye Liu_**, Ziyu Xu, Qi Liu, Shimin Di, Min-Ling Zhang.\
   Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models. [[arxiv]](https://www.arxiv.org/pdf/2508.02120)
+
+## 2027
 - Zheng Huang, Xukai Liu, Tianyu Hu, Kai Zhang, **_Ye Liu_**.\
-  PPTBench: Towards Holistic Evaluation of Large Language Models for PowerPoint Layout and Design Understanding. [[arxiv]](https://arxiv.org/pdf/2512.02624) [[code&data]](https://github.com/Gastronomicluna/PPTBench-Eval)
+  PPTBench: Towards Holistic Evaluation of Large Language Models for PowerPoint Layout and Design Understanding. [[arxiv]](https://arxiv.org/pdf/2512.02624) [[code&data]](https://github.com/Gastronomicluna/PPTBench-Eval)\
+  The 20th ACM International Conference on Web Search and Data Mining (**_WSDM_**), 2027.
 
 
 ## 2026
@@ -71,6 +75,7 @@ My research focuses on **agentic artificial intelligence** built upon large lang
 - Xukai Liu†, **_Ye Liu_**†, Jipeng Zhang, Yanghai Zhang, Kai Zhang, Qi Liu.\
   Layer-Order Inversion: Rethinking Latent Multi-Hop Reasoning in Large Language Models. [[arxiv]](https://arxiv.org/pdf/2601.03542) [[code]](https://github.com/laquabe/Layer-Order-Inversion)\
   The 2026 Conference on Empirical Methods in Natural Language Processing (**_EMNLP_**), 2026.
+
 
 
 ## 2025
