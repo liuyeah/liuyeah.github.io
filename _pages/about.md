@@ -61,7 +61,7 @@ My research focuses on **agentic artificial intelligence** built upon large lang
   Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning Reliability for Question Answering. [[arxiv]](https://arxiv.org/pdf/2505.19410) [[code]](https://anonymous.4open.science/r/SRP-E06C)
 - Linan Yue, Yichao Du, Yizhi Wang, Weibo Gao, Fangzhou Yao, Li Wang, **_Ye Liu_**, Ziyu Xu, Qi Liu, Shimin Di, Min-Ling Zhang.\
   Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models. [[arxiv]](https://www.arxiv.org/pdf/2508.02120)
-- Botao Yu, Bo Zhou, Daniel Adu-Ampratwum, Frazier N Baker, Ziru Chen, Reza Averly, **_Ye Liu_**, Wenhao Gao, Xia Ning, Huan Sun
+- Botao Yu, Bo Zhou, Daniel Adu-Ampratwum, Frazier N Baker, Ziru Chen, Reza Averly, **_Ye Liu_**, Wenhao Gao, Xia Ning, Huan Sun.\
   FREA: A Multi-Source Expert Benchmark for Reaction Feasibility Verification. [[arxiv]](https://arxiv.org/pdf/2610.06614)
 
 
